@@ -28,8 +28,8 @@ Key Topics
 * Building Projects with Webpack
 
 [SCSS Refactor] (https://github.com/MoonHighway/css-pro/tree/master/start-scss-refactor)
-[SCSS & Grunt Lab] (https://github.com/MoonHighway/css-pro/tree/master/grunt-scss)
-[Foundation Lab] (https://github.com/MoonHighway/css-pro/tree/master/snowtooth-foundation)
+| [SCSS & Grunt Lab] (https://github.com/MoonHighway/css-pro/tree/master/grunt-scss)
+| [Foundation Lab] (https://github.com/MoonHighway/css-pro/tree/master/snowtooth-foundation)
 
 Day 3: JavaScript Pro
 ---------
